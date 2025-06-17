@@ -101,4 +101,6 @@ Accessing **Abacus Market** securely starts with the correct **Abacus Market lin
 
 
 
-Update:  16 June
+
+
+Update: url is now functioning and clickable
