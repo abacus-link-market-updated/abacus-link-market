@@ -105,4 +105,6 @@ Accessing **Abacus Market** securely starts with the correct **Abacus Market lin
 
 
 
-Update: link is functioning
+
+
+Update: Link is now live and reachable
