@@ -115,4 +115,6 @@ Accessing **Abacus Market** securely starts with the correct **Abacus Market lin
 
 
 
-Update:  07.07.2025 url is now responsive and operational
+
+
+Update:  07/14/2025 Sprite URLs
